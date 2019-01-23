@@ -3,3 +3,4 @@ Hey Jay, complete this assignment by Tuesday 01/29/2019. All the resources you n
 
 https://automatetheboringstuff.com/chapter11/
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+https://www.youtube.com/watch?v=ng2o98k983k
