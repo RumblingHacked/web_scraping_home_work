@@ -37,6 +37,5 @@ def wagner_noel():
 
 def write_file():
     '''
-    Write your own function that takes the
-    :return:
+    Write your own function that takes the dictionary list of elements and writes them to a csv file
     '''
